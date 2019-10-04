@@ -1,0 +1,122 @@
+body {
+    background-color: lightgrey;
+}
+.logo {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.glavni {
+    background-color: white;
+    padding:0;
+    margin-bottom: 20px;
+    border-radius: 20px 20px 0 0;
+}
+.naslov {
+    font-variant: initial;
+    margin-top: 50px;
+    font-size: 42px;
+    height: 60px;
+}
+.prvi {
+    background-color: orange;
+    padding-bottom: 25px;
+}
+.col-sm-6 {
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+nav {
+height: 40px;
+background-color: red;
+border-radius: 20px 20px 0 0;
+text-align: center;
+
+}
+.mmenu {
+text-decoration: none;
+color: whitesmoke;
+display: inline-block;
+ height: 100%;
+line-height: 40px;
+width: 18%;
+
+}
+.mmenu:hover {
+    
+    color: gray;
+    text-decoration: none;
+    display: inline-block;
+    height: 100%;
+    line-height: 40px;
+}
+
+
+#tipkaa {
+    initial-style: none;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: red;
+    width: 130px;
+    height: 40px;
+    color: white;
+    margin-top: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+}
+.siva  {
+    background-color: gray;
+    padding: 20px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 31%;   
+    display: flex; 
+    border-radius: 5px;
+}
+.siv {
+    padding-left: auto;
+    padding-right: auto;
+}
+
+
+.beo {
+    color: white;
+}
+
+.treci {
+    margin-bottom: 10px;
+}
+.cetv {
+    background-color: red;
+    color: yellow;
+}
+.desni {
+    padding-left: 0;
+}  
+.ikona {
+    margin: 20px;
+    width: 100px;
+}
+
+.box4 {
+    color: white; 
+    padding: 40px;
+}
+.submenu {
+    border-right: 1px lightgray solid;
+}
+.sub {
+    color: gray;
+    font: arial;
+    display: block;
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.sub:hover {
+    text-decoration: none;
+    color: black;
+}
